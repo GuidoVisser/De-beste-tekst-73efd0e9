@@ -4,5 +4,10 @@ a {
 }
 
 h1 {
-	color: green;
+	color: red;
+}
+
+h2 {
+	color: purple;
+	font-size: small;
 }
